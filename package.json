@@ -1,7 +1,7 @@
 {
   "scripts": {
     "test": "awesome-lint",
-    "format": "prettier --write **/*.{md,json}"
+    "format": "prettier --write **/*.{md,json,yml}"
   },
   "devDependencies": {
     "awesome-lint": "^0.18.2",
